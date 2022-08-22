@@ -1,0 +1,16 @@
+body{
+	background: blanchedalmond;
+	text-align: center;
+	border-block: brown;
+	margin-top: 60px;
+}
+
+.isabela {
+	align-content: center;
+	width: 250px;
+	border-radius: 50%;
+}
+
+.biografia {
+	text-align: center;
+}
